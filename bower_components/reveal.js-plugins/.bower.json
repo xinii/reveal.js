@@ -1,0 +1,15 @@
+{
+  "name": "reveal.js-plugins",
+  "homepage": "https://github.com/rajgoel/reveal.js-plugins",
+  "version": "4.1.5",
+  "_release": "4.1.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "4.1.5",
+    "commit": "d17f9cd4ee024da20d9ab9a2a6a019ef747b394f"
+  },
+  "_source": "https://github.com/rajgoel/reveal.js-plugins.git",
+  "_target": "^4.1.5",
+  "_originalSource": "reveal.js-plugins",
+  "_direct": true
+}
