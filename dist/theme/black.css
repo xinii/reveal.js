@@ -20,7 +20,9 @@ section.has-light-background, section.has-light-background h1, section.has-light
     --r-table-body-background-color: transparent;
     --r-example-background-color: indigo;
     --r-code-background-color: purple;
-    --r-image-background-color: darkslategray;
+    --r-image-background-color: rgba(60 60 30/ 70%);
+    --r-customcontrols-background-color: rgba(60 60 30/ 50%);
+    --r-customcontrols-shadow-color: rgba(13 13 10 / 50%);
     
     --r-background-color: #191919;
     --r-main-font: Source Sans Pro, Helvetica, sans-serif;

@@ -23,7 +23,9 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
     --r-table-body-background-color: whitesmoke;
     --r-example-background-color: antiquewhite;
     --r-code-background-color: lightgoldenrodyellow;
-    --r-image-background-color: lightyellow;
+    --r-image-background-color: rgb(255 255 224 / 45%);
+    --r-customcontrols-background-color: rgb(255 255 224 / 30%);
+    --r-customcontrols-shadow-color: rgba(130 130 100 / 50%);
     
     --r-background-color: #fff;
     --r-main-font: Lato, sans-serif;
